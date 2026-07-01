@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR6c0076/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0076/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經郢說
+  identifiers:
+    krp: KR6c0076
+    cbeta: X25n0488
+    cbeta_old_id: X25n0488
+    authorityid: CA0001721
+    json_key: X0488
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0488.xml
+    old_id: X25n0488
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0076_000-X.yaml, hash: 'sha256:12a2ec72d486a76d57073adadcf1a85fbcf19bf2c3c8d9dbce9464916e0b6ce8'}
+  - {seq: 1, filename: KR6c0076_001-X.yaml, hash: 'sha256:ee0f3fcc29cad5434768685a5426ff813aa55b1d67bae7db8384e6288da81a30'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0076_000-X.markers.yaml, hash: 'sha256:adb09786df0e3c82d8be6e3d97cbf2617b6a80e2187fe0945b25d162a6f6dbf0'}
+  - {seq: 1, role: markers, filename: assets/KR6c0076_001-X.markers.yaml, hash: 'sha256:cfcd5cfea8235c56553084d54a7830a929ad6f690381fe3dd073c9cdac016fff'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0076_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 488-A 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0076_X_000-mulu-2
+    span:
+    - front
+    - 996
+    - 996
+  label: 攷異
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0076_X_000-mulu-3
+    span:
+    - front
+    - 2975
+    - 2975
+  label: 說略總論(十則)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0076_X_000-mulu-4
+    span:
+    - front
+    - 13738
+    - 13738
+  label: 附記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0076_X_000-mulu-5
+    span:
+    - front
+    - 14543
+    - 14543
+  label: 章句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0076_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17809
+  label: 金剛般若波羅蜜經郢說
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0076_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 標名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0076_X_001-mulu-2
+    span:
+    - body
+    - 128
+    - 128
+  label: 通序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0076_X_001-mulu-3
+    span:
+    - body
+    - 395
+    - 395
+  label: 別序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0076_X_001-mulu-4
+    span:
+    - body
+    - 565
+    - 565
+  label: 正宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0076_X_001-mulu-5
+    span:
+    - body
+    - 17708
+    - 17708
+  label: 流通
+  type: mulu
+  level: 1
+hash: sha256:7b83141eaa78a8c588d4beab8703a8f9916f3bc8a22d8ddc4fb3a2a4221b6a77
