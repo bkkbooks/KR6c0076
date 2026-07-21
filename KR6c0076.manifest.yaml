@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0076_000.yaml, hash: 'sha256:99b4aad358b28bc2492c8484d48113df3f09977b2edf926bd1c10dc6acdfb841'}
+  - {seq: 0, filename: KR6c0076_000.yaml, hash: 'sha256:74e82fc75ec29d830ff94319b58748170b2bc7072aea9e0433dd9882f9cf7a55'}
   - {seq: 1, filename: KR6c0076_001.yaml, hash: 'sha256:1b20f447d0e5fd29542c157d83ad79fde5b01072fe69571451c01940717ba39c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0076_000.markers.yaml, hash: 'sha256:ec696541076083224f80a1d9856ae56945d76e1418499066e183bb0940ede461'}
+  - {seq: 0, role: markers, filename: assets/KR6c0076_000.markers.yaml, hash: 'sha256:ecfe38652f6b45a06cb85eb482dd13f1c029e3af3455c9a3e7bd9b2f2c4548d6'}
   - {seq: 1, role: markers, filename: assets/KR6c0076_001.markers.yaml, hash: 'sha256:89a33f485df5b5aa7834aad85d28f8acf51b6df7829eb38c89c2f6f6419d2764'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0076_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 488-A 自序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0076_X_000-mulu-2
     span:
-    - front
+    - body
     - 996
     - 996
   label: 攷異
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0076_X_000-mulu-3
     span:
-    - front
+    - body
     - 2975
     - 2975
   label: 說略總論(十則)
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0076_X_000-mulu-4
     span:
-    - front
+    - body
     - 13738
     - 13738
   label: 附記
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0076_X_000-mulu-5
     span:
-    - front
+    - body
     - 14543
     - 14543
   label: 章句
@@ -137,7 +137,7 @@ table_of_contents:
   label: 流通
   type: mulu
   level: 1
-hash: sha256:4b8fd9e9a58608f892bacebbc8dddebc591a29f838027f094e8dd07ec0807272
+hash: sha256:9c6b876e1c49ba88aad13a8bfb2c0012ac83ae57c77bcec6b1f85620a5521958
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
